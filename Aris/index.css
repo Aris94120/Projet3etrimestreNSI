@@ -1,7 +1,20 @@
 body {
     background-image:url(https://www.tesla.com/ns_videos/homepage/main_hero_homepage_desktop.jpg);
-    color:white;
+    color:#BAAFAF;
     text-align: center;
     font-size: 25px;
+    font-family: arial;
 }
 
+#gauche {
+    text-align: left;
+}
+
+#blanc {
+    color:white;
+}
+
+#titre {
+    color: red;
+    font-size: 48px;
+}
